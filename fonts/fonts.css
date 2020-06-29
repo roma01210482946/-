@@ -1,0 +1,67 @@
+
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url('DroidKufi-Regular.eot');
+  src: url('DroidKufi-Regular.eot?#iefix') format('embedded-opentype'),
+       url('DroidKufi-Regular.woff2') format('woff2'),
+       url('DroidKufi-Regular.woff') format('woff'),
+       url('DroidKufi-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('DroidKufi-Bold.eot');
+  src: url('DroidKufi-Bold.eot?#iefix') format('embedded-opentype'),
+       url('DroidKufi-Bold.woff2') format('woff2'),
+       url('DroidKufi-Bold.woff') format('woff'),
+       url('DroidKufi-Bold.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'hacen_casablanca_heavyregular';
+    src: url('hacen_casablanca_heavy.eot');
+    src: url('hacen_casablanca_heavy.eot?#iefix') format('embedded-opentype'),
+         url('hacen_casablanca_heavy.woff2') format('woff2'),
+         url('hacen_casablanca_heavy.woff') format('woff'),
+         url('hacen_casablanca_heavy.ttf') format('truetype'),
+         url('hacen_casablanca_heavy.svg#hacen_casablanca_heavyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'hacen_casablancaregular';
+    src: url('hacen_casablanca.eot');
+    src: url('hacen_casablanca.eot?#iefix') format('embedded-opentype'),
+         url('hacen_casablanca.woff2') format('woff2'),
+         url('hacen_casablanca.woff') format('woff'),
+         url('hacen_casablanca.ttf') format('truetype'),
+         url('hacen_casablanca.svg#hacen_casablancaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'hacen_casablanca_lightregular';
+    src: url('hacen_casablanca_light.eot');
+    src: url('hacen_casablanca_light.eot?#iefix') format('embedded-opentype'),
+         url('hacen_casablanca_light.woff2') format('woff2'),
+         url('hacen_casablanca_light.woff') format('woff'),
+         url('hacen_casablanca_light.ttf') format('truetype'),
+         url('hacen_casablanca_light.svg#hacen_casablanca_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
